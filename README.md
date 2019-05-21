@@ -12,6 +12,6 @@ The Azure Databricks resources are all packaged into the following DBC file whic
 
 *Azure Notebooks*
 
-The Azure Notebooks are available in an Azure Notebook environment that you clone into your our workspace:
+The Azure Notebooks are available in an Azure Notebook environment that you clone into your workspace:
 
 [Azure Notebooks](https://notebooks.azure.com/Solliance/projects/deep-learning-for-developers) 
